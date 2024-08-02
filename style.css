@@ -1,0 +1,52 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: white; 
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #4682B4;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+main {
+    padding: 20px;
+}
+
+.conteudo {
+    margin-bottom: 20px;
+}
+
+.conteudo h2 {
+    margin-top: 0;
+    color: black; 
+}
+
+
+.contato {
+    border-top: 1px solid white; 
+    padding-top: 20px;
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li p {
+    margin: 0;
+}
